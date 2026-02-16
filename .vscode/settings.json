@@ -1,5 +1,5 @@
 {
-    "cucumberautocomplete.steps": ["src/test/java/steps/*.java"],
+    "cucumberautocomplete.steps": ["src/test/java/Steps/*.java"],
     "cucumberautocomplete.syncfeatures": "test/features/*.feature",
     "cucumberautocomplete.strictGherkinCompletion": true,
     "cucumberautocomplete.strictGherkinValidation": true,
